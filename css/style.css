@@ -1,0 +1,32 @@
+.fondoColor1{
+    background-color:rgb(154, 189, 200);
+}
+.fondoColor2{
+    background-color:rgb(25, 87, 87);
+}
+
+.fondoCabecera{
+    background-image: url(../multimedia/imgPerfil.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-bottom: 0px;
+}
+.StyLetra{
+    font-size: 200%;
+}
+.secColor{
+    background-color: rgba(227, 217, 218, 0.919);
+}
+.btnColor{
+    background-color: rgb(15, 237, 41);
+}
+.tamañoImag{
+    inline-size: 40%;
+}
+.tamañoLetra{
+    font-size: 200%;
+}
+.tipoletra{
+    font-style: italic;
+}
